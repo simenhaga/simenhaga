@@ -1,16 +1,17 @@
-### Hi there 👋
+# Hei du! 👋
 
-<!--
-**simenhaga/simenhaga** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+## 🚀 Om meg
+Mitt navn er Simen Haga og jeg er 26 år gammel. Jeg fullfører en bachelorgrad i programmering fra Høyskolen Kristiania sommeren 2023. Glad i alt av teknologi og er klar for nye utfordringer. 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+👩‍💻 Supportkonsulent og utvikling i Fabel Lyd AS
+
+🧠 Bachelor i Programmering
+
+🤔 Leter etter jobb som utvikler fra august 2023.
+
+[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/simen-haga-85202712b/)
+
+## 🛠 Skills
+Javascript, HTML, CSS, Java, Spring, C#, SQL, React, Kotlin
+
